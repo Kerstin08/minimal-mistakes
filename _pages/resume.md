@@ -7,7 +7,6 @@ permalink: /resume/
 <a href="/assets/data/resume_hofer_kerstin.pdf" class="btn btn--primary">Download as pdf</a>
 
 ---
-
 ## Profile
 
 Game Developer equipped with knowledge about developing game projects in 
@@ -16,7 +15,6 @@ physics and graphics programming as well as developing AR/VR applications and
 deep learning for geometry processing and computer vision.
 
 ---
-
 ## Personal Info
 
 Date of birth: May 8th, 1998 \\
@@ -28,7 +26,6 @@ Address: Wald 96 \\
 Nationality: Austrian
 
 ---
-
 ## Skills:
 
   * C++
@@ -47,7 +44,6 @@ Nationality: Austrian
   * English
 
 ---
-
 ## Education
 
 **2012 - 2016:     BORG Mittersill**
@@ -68,7 +64,6 @@ Nationality: Austrian
 :   estimated completion date: April 2023
 
 ---
-
 ## Work Experiance
 
 **2019:            Internship Spinor GmbH, Munich, Germany**
