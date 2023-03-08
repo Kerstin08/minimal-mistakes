@@ -3,7 +3,7 @@ title: "Resumé"
 layout: archive
 permalink: /resume/
 ---
-<a href="assets/data/resume_hofer_kerstin.pdf" class="btn btn--primary">Download as pdf</a>
+<a href="/assets/data/resume_hofer_kerstin.pdf" class="btn btn--primary">Download as pdf</a>
 
 # Profile
 
@@ -22,26 +22,26 @@ E-Mail: kerstin_hofer@me.at \\
 Address: Wald 96 \\
          5742 Wald im Pinzgau \\
          Austria \\
-Nationality: Austrian \\
+Nationality: Austrian
 
 ---
 
 # Sills:
 
-    * C++
-    * C#
-    * Unity Engine
-    * Unreal Engine
-    * Python
-    * PyTorch & PyTorch Lightning
-    * Docker and Kubernetes
+  * C++
+  * C#
+  * Unity Engine
+  * Unreal Engine
+  * Python
+  * PyTorch & PyTorch Lightning
+  * Docker and Kubernetes
     
 ---
    
 # Languages
 
-    * German
-    * English
+  * German
+  * English
 
 ---
 
