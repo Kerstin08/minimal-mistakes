@@ -49,6 +49,10 @@ Nationality: Austrian
 # Education
 
 **2012 - 2016: BORG Mittersill**
+:   Degree: A-levels
+:   Specialisation: artistic-creative
+
+**2012 - 2016: BORG Mittersill**
   * Degree: A-levels
   * Specialisation: artistic-creative
   
