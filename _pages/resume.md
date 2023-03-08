@@ -6,7 +6,9 @@ permalink: /resume/
 ---
 <a href="/assets/data/resume_hofer_kerstin.pdf" class="btn btn--primary">Download as pdf</a>
 
-# Profile
+---
+
+## Profile
 
 Game Developer equipped with knowledge about developing game projects in 
 both Unity and Unreal. Further experience in engine development including 
@@ -15,7 +17,7 @@ deep learning for geometry processing and computer vision.
 
 ---
 
-# Personal Info
+## Personal Info
 
 Date of birth: May 8th, 1998 \\
 Mobile: +43 680 3044856 \\
@@ -27,7 +29,7 @@ Nationality: Austrian
 
 ---
 
-# Skills:
+## Skills:
 
   * C++
   * C#
@@ -39,24 +41,24 @@ Nationality: Austrian
     
 ---
    
-# Languages
+## Languages
 
   * German
   * English
 
 ---
 
-# Education
+## Education
 
 **2012 - 2016:     BORG Mittersill**
 :   Degree: A-levels
 :   Specialisation: artistic-creative
-\\
+<br/>
 
 **2017 - 2021:     University of Applied Sciences Salzburg**
 :   Degree: Bachelor of Science
 :   Specialisation: Game Development
-\\
+<br/>
 
 **2021 - present:  University of Applied Sciences Salzburg**
 :   Degree: Master of Science
@@ -65,12 +67,12 @@ Nationality: Austrian
 
 ---
 
-# Work Experiance
+## Work Experiance
 
 **2019:            Internship Spinor GmbH, Munich, Germany**
 :   duration: 6 months
 :   Tasks included preparing and realising the containerisation of the Shark3D Engine using Docker and Kubernetes as well as their deployment on a cloud service provider
-\\
+<br/>
 
 **2019 - 2021:     Working Student Spinor GmbH, Munich, Germany**
 :   Tasks included furthering the deployment of the containerised Engine on a cloud service provider
