@@ -1,30 +1,33 @@
 ---
-title: "Resume"
+title: "Resumé"
 layout: archive
 permalink: /resume/
-date: 2016-02-24T03:02:20+00:00
 ---
+<a href="assets/data/resume_hofer_kerstin.pdf" class="btn btn--primary">Download as pdf</a>
 
-# Resumé
-<a href="assets/data/
-resume_hofer_kerstin.pdf" class="btn btn--primary">Download pdf</a>
+# Profile
 
-## Profile
 Game Developer equipped with knowledge about developing game projects in 
 both Unity and Unreal. Further experience in engine development including 
 physics and graphics programming as well as developing AR/VR applications and 
 deep learning for geometry processing and computer vision.
 
-## Personal Info
-Date of birth: May 8th, 1998
-Mobile: +43 680 3044856
-E-Mail: kerstin_hofer@me.at
-Address: Wald 96
-         5742 Wald im Pinzgau
-         Austria
-Nationality: Austrian
+---
 
-## Sills:
+# Personal Info
+
+Date of birth: May 8th, 1998 \\
+Mobile: +43 680 3044856 \\
+E-Mail: kerstin_hofer@me.at \\
+Address: Wald 96 \\
+         5742 Wald im Pinzgau \\
+         Austria \\
+Nationality: Austrian \\
+
+---
+
+# Sills:
+
     * C++
     * C#
     * Unity Engine
@@ -32,13 +35,18 @@ Nationality: Austrian
     * Python
     * PyTorch & PyTorch Lightning
     * Docker and Kubernetes
+    
+---
    
-## Languages
+# Languages
+
     * German
     * English
-    
-## Education
-|----------------------------------------------------------|
+
+---
+
+# Education
+
 | Years          | School/University                       |
 |:---------------|:---------------------------------------:|
 | 2012 - 2016    | BORG Mittersill                         |
@@ -52,11 +60,11 @@ Nationality: Austrian
 | 2021 - present | University of Applied Sciences Salzburg |
 |                |  * Degree: Master of Science            |
 |                |  * Specialisation: Game Development     |
-|----------------------------------------------------------|
 
+---
 
-## Work Experiance
-|----------------------------------------------------------|
+# Work Experiance
+
 | Years          | Company                                 |
 |:---------------|:---------------------------------------:|
 | 2019           | Internship Spinor GmbH, Munich, Germany |
@@ -72,4 +80,5 @@ Nationality: Austrian
 |                |  * Tasks included furthering the        |
 |                |    deployment of the containerised Engine |
 |                |    on a cloud service provider          |
-|----------------------------------------------------------|
+
+---
