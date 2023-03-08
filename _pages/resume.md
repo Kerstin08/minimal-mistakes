@@ -1,5 +1,5 @@
 ---
-title: "Resumé"
+title: "Résumé"
 layout: archive
 classes: wide
 permalink: /resume/
@@ -59,7 +59,8 @@ Nationality: Austrian
 **2017 - 2021:     University of Applied Sciences Salzburg**
 :   Degree: Bachelor of Science
 :   Specialisation: Game Development
-&nbsp;&nbsp;
+<br />
+<br />
 
 **2021 - present:  University of Applied Sciences Salzburg**
 :   Degree: Master of Science
@@ -71,9 +72,10 @@ Nationality: Austrian
 ## Work Experiance
 
 **2019:            Internship Spinor GmbH, Munich, Germany**
-:   duration: 6 months
+:   ´Duration: 6 months
 :   Tasks included preparing and realising the containerisation of the Shark3D Engine using Docker and Kubernetes as well as their deployment on a cloud service provider
-\ \
+<br />
+<br />
 
 **2019 - 2021:     Working Student Spinor GmbH, Munich, Germany**
 :   Tasks included furthering the deployment of the containerised Engine on a cloud service provider
