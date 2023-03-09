@@ -2,6 +2,7 @@
 title: "Résumé"
 layout: archive
 classes: wide
+author_profile: true
 permalink: /resume/
 ---
 <a href="/assets/data/resume_hofer_kerstin.pdf" class="btn btn--primary">Download as pdf</a>
@@ -67,7 +68,7 @@ Nationality: Austrian
 ## Work Experiance
 
 **2019:            Internship Spinor GmbH, Munich, Germany**
-:   ´Duration: 6 months
+:   Duration: 6 months
 :   Tasks included preparing and realising the containerisation of the Shark3D Engine using Docker and Kubernetes as well as their deployment on a cloud service provider
 <br />
 <br />
