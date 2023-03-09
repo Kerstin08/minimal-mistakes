@@ -9,6 +9,8 @@ header:
       url: "mailto:kerstin_hofer90@gmx.at"
     - label: "GitHub"
       url: "https://github.com/Kerstin08"
+    - label: "Itch.io"
+      url: "https://khofer.itch.io/"
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/kerstin-hofer-ab2b73223/"
     - label: "Twitter"

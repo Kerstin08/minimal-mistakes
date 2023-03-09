@@ -5,7 +5,11 @@ layout: archive
 classes: wide
 author_profile: true
 ---
+ome of my favourite projects I worked on. More games can be found on <a href="https://khofer.itch.io/">Itch.io</a> and other projects are posted on 
+<a href="https://github.com/Kerstin08">Itch.io</a> my github page.
 
+
+---
 ## Cyberbowl
 ![image-right](/assets/images/cyberbowl_teaser_small.png){: .align-right}  Cyberbowl is a local muliplayer game, where the players compete in teams to win a football game. 
 Every character has special abilities has special abilities that either help to score a goal or to prevent the other team from scoring.
