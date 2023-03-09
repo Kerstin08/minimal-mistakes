@@ -3,7 +3,7 @@ title: "Hey there!"
 layout: splash
 permalink: /
 header:
-  overlay_image: /assets/images/header.jpg
+  overlay_image: /assets/images/header_beige.jpg
   actions:
     - label: "Email"
       url: "mailto:kerstin_hofer90@gmx.at"
