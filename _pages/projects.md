@@ -5,9 +5,9 @@ layout: archive
 classes: wide
 author_profile: true
 ---
-ome of my favourite projects I worked on. More games can be found on <a href="https://khofer.itch.io/">Itch.io</a> and other projects are posted on 
-<a href="https://github.com/Kerstin08">Itch.io</a> my github page.
-
+Some of my favourite projects I worked on. More games can be found on <a href="https://khofer.itch.io/">my Itch.io page</a> and other projects are posted on 
+<a href="https://github.com/Kerstin08">my github page</a>.
+<br />
 
 ---
 ## Cyberbowl
