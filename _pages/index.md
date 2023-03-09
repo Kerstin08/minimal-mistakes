@@ -2,9 +2,18 @@
 title: "Hey there!"
 layout: splash
 permalink: /
+author_profile: true
 header:
   overlay_color: "#5e616c"
-
+  actions:
+    - label: "Email"
+      url: "mailto:kerstin_hofer90@gmx.at"
+    - label: "GitHub"
+      url: "https://github.com/Kerstin08"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/kerstin-hofer-ab2b73223/"
+    - label: "Twitter"
+      url: "https://twitter.com/KerstinH98"
   
 feature_row:
   - image_path: /assets/images/resume_header.png
@@ -36,4 +45,4 @@ Furthermore, I love Yoga as well as reading, travelling or having a cup of coffe
 I'm open to work opportunities or collaborations, just shoot me a message with your idea and we can talk about it,
 I'd love to hear from you!
 
-{% include feature_row type="center" %}
+{% include feature_row%}
