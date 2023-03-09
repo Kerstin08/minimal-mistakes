@@ -1,24 +1,10 @@
 ---
+title: "Hey there!"
 layout: splash
 permalink: /
-hidden: true
 header:
   overlay_color: "#5e616c"
-    actions:
-    - label: "Email"
-      icon: "fa-solid fa-envelope"
-      url: "mailto:kerstin_hofer90@gmx.at"
-    - label: "Gitlab"
-      icon: "fa-brands fa-github"
-      url: "https://github.com/Kerstin08"
-    - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/kerstin-hofer-ab2b73223/"
-    - label: "Twitter"
-      icon: "fa-brands fa-twitter"
-      url: "https://twitter.com/KerstinH98"
-excerpt: >
-  Hey there!<br />
+
   
 feature_row:
   - image_path: /assets/images/resume_header.png
@@ -50,4 +36,4 @@ Furthermore, I love Yoga as well as reading, travelling or having a cup of coffe
 I'm open to work opportunities or collaborations, just shoot me a message with your idea and we can talk about it,
 I'd love to hear from you!
 
-{% include feature_row type="center"%}
+{% include feature_row type="center" %}
