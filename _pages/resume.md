@@ -6,6 +6,7 @@ author_profile: true
 permalink: /resume/
 ---
 <a href="/assets/data/resume_hofer_kerstin.pdf" class="btn btn--primary">Download pdf</a>
+<br />
 
 ---
 ## Profile
@@ -14,6 +15,8 @@ Game Developer equipped with knowledge about developing game projects in
 both Unity and Unreal. Further experience in engine development including 
 physics and graphics programming as well as developing AR/VR applications and 
 deep learning for geometry processing and computer vision.
+<br />
+<br />
 
 ---
 ## Skills:
@@ -25,13 +28,17 @@ deep learning for geometry processing and computer vision.
   * Python
   * PyTorch & PyTorch Lightning
   * Docker and Kubernetes
-    
+<br />
+<br />
+
 ---
    
 ## Languages
 
   * German
   * English
+<br />
+<br />
 
 ---
 ## Education
@@ -52,6 +59,8 @@ deep learning for geometry processing and computer vision.
 :   Degree: Master of Science
 :   Specialisation: Game Development
 :   estimated completion date: April 2023
+<br />
+<br />
 
 ---
 ## Work Experiance
@@ -64,5 +73,3 @@ deep learning for geometry processing and computer vision.
 
 **2019 - 2021:     Working Student Spinor GmbH, Munich, Germany**
 :   Tasks included furthering the deployment of the containerised Engine on a cloud service provider
-
----

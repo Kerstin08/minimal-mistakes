@@ -6,7 +6,6 @@ classes: wide
 author_profile: true
 ---
 
-
 ## Cyberbowl
 ![image-right](/assets/images/cyberbowl_teaser_small.png){: .align-right}  Cyberbowl is a local muliplayer game, where the players compete in teams to win a football game. 
 Every character has special abilities has special abilities that either help to score a goal or to prevent the other team from scoring.
@@ -21,8 +20,9 @@ therefore was envolved in everything from character movement, over gameplay, lik
 
 #### Trailer
 {% include video id="S598GzSND1o" provider="youtube" %}
----
+<br />
 
+---
 
 ## Trash Patrol
 ![image-right](/assets/images/trashpatrol_teaser_small.png){: .align-right}  Trash Patrol is a couch-coop muliplayer game, where the players control cute raccoon characters and have to work together to steal items from a house.
@@ -42,6 +42,8 @@ I also took part in the design process, which however was not my main resposibil
 
 #### Trailer
 {% include video id="lws8wo0ZqaU" provider="youtube" %}
+<br />
+
 ---
 
 ## TBA
