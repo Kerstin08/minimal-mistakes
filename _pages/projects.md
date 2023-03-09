@@ -6,9 +6,9 @@ classes: wide
 author_profile: true
 ---
 
-
+{% include video id="S598GzSND1o" provider="youtube" %}
 ## Cyberbowl
-<iframe width="450" src="https://youtu.be/S598GzSND1o" frameborder="0"> </iframe>{: .align-right} Cyberbowl is a local muliplayer game, where the players compete in teams to win a football game. 
+Cyberbowl is a local muliplayer game, where the players compete in teams to win a football game. 
 Every character has special abilities has special abilities that either help to score a goal or to prevent the other team from scoring.
 
 This project was the graduation project for my Bachelor studies at the Universities of Applied Sciences Salzburg. It was developed in 
