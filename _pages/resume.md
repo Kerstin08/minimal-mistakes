@@ -16,17 +16,6 @@ physics and graphics programming as well as developing AR/VR applications and
 deep learning for geometry processing and computer vision.
 
 ---
-## Personal Info
-
-Date of birth: May 8th, 1998 \\
-Mobile: +43 680 3044856 \\
-E-Mail: kerstin_hofer@me.at \\
-Address: Wald 96 \\
-         5742 Wald im Pinzgau \\
-         Austria \\
-Nationality: Austrian
-
----
 ## Skills:
 
   * C++
