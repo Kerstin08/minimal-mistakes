@@ -6,16 +6,12 @@ header:
   overlay_color: "#5e616c"
     actions:
     - label: "Email"
-      icon: "fa-solid fa-envelope"
       url: "mailto:kerstin_hofer90@gmx.at"
     - label: "Gitlab"
-      icon: "fa-brands fa-github"
       url: "https://github.com/Kerstin08"
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/kerstin-hofer-ab2b73223/"
     - label: "Twitter"
-      icon: "fa-brands fa-twitter"
       url: "https://twitter.com/KerstinH98"
 excerpt: >
   Hey there!<br />
