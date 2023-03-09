@@ -5,7 +5,7 @@ classes: wide
 author_profile: true
 permalink: /resume/
 ---
-<a href="/assets/data/resume_hofer_kerstin.pdf" class="btn btn--primary">Download as pdf</a>
+<a href="/assets/data/resume_hofer_kerstin.pdf" class="btn btn--primary">Download pdf</a>
 
 ---
 ## Profile
