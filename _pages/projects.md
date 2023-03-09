@@ -7,9 +7,9 @@ author_profile: true
 ---
 
 ## Cyberbowl
-<img "/assets/images/cyberbowl_teaser.png" alt="Teaser image cyberbowl">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/cyberbowl_teaser.jpg" alt="Teaser image cyberbowl">
 Cyberbowl is a local muliplayer game, where the players compete in teams to win a football game. 
-Every character has special abilities has special abilities that either help to score a goal or to prevent the other team from scoring. \\
+Every character has special abilities has special abilities that either help to score a goal or to prevent the other team from scoring. \
 
 This project was the graduation project for my Bachelor studies at the Universities of Applied Sciences Salzburg. It was developed in 
 Unreal 4 by a total of 3 programmers and 5 artists. In this team my primary role was Gameplay development, where I took on tasks as needed and
@@ -21,10 +21,10 @@ therefore was envolved in everything from character movement, over gameplay, lik
 ---
 
 ## Trash Patrol
-<img "/assets/images/trashpatrol_teaser.png" alt="Teaser image trash patrol">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/trashpatrol_teaser.jpg" alt="Teaser image cyberbowl">
 Trash Patrol is a couch-coop muliplayer game, where the players control cute raccoon characters and have to work together to steal items from a house.
 In order to do so, the items have to be washed and cleaned before they can be handed into a trashcan. Simoultaniously, the pack has to avoid the owner of
-the house, who is not too happy that a bunch of raccons is trying to steal his possessions. \\
+the house, who is not too happy that a bunch of raccons is trying to steal his possessions. \
 
 This project was the graduation project for my Master studies at the Universities of Applied Sciences Salzburg. It was developed in 
 Unreal 4 by a total of 2 programmers and 5 artists. In this team my primary role was AI development, which involved implementing the human occupant of the
