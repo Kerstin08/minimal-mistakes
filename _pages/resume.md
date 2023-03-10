@@ -63,7 +63,7 @@ deep learning for geometry processing and computer vision.
 <br />
 
 ---
-## Work Experiance
+## Work Experience
 
 **2019:            Internship Spinor GmbH, Munich, Germany**
 :   Duration: 6 months

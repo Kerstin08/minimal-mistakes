@@ -20,7 +20,7 @@ Every character has special abilities has special abilities that either help to 
 ### My role
 This project was the graduation project for my Bachelor studies at the Universities of Applied Sciences Salzburg. It was developed in 
 Unreal 4 by a total of 3 programmers and 5 artists. In this team my primary role was Gameplay development, where I took on tasks as needed and
-therefore was envolved in everything from character movement, over gameplay, like time and score management, to UI implementations.
+therefore was involved in everything from character movement, over gameplay, like time and score management, to UI implementations.
 
 ### Trailer
 {% include video id="S598GzSND1o" provider="youtube" %}
@@ -29,9 +29,9 @@ therefore was envolved in everything from character movement, over gameplay, lik
 ---
 
 ## Trash Patrol
-![image-right](/assets/images/trashpatrol_teaser_small.png){: .align-right}  Trash Patrol is a couch-coop muliplayer game, where the players control cute raccoon characters and have to work together to steal items from a house.
-In order to do so, the items have to be washed and cleaned before they can be handed into a trashcan. Simoultaniously, the pack has to avoid the owner of
-the house, who is not too happy that a bunch of raccons is trying to steal his possessions.
+![image-right](/assets/images/trashpatrol_teaser_small.png){: .align-right}  Trash Patrol is a couch-coop multiplayer game, where the players control cute raccoon characters and have to work together to steal items from a house.
+In order to do so, the items have to be washed and cleaned before they can be handed into a trashcan. Simultaneously, the pack has to avoid the owner of
+the house, who is not too happy that a bunch of raccoons is trying to steal his possessions.
 
 <a href="https://portfolio.fh-salzburg.ac.at/projects/2022-trash-patrol" class="btn btn--primary">Visit Portfolio</a>
 <a href="https://portfolio.fh-salzburg.ac.at/projects/2019-cyber-bowl" class="btn btn--primary">View Code on Github</a>
