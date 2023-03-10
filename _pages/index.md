@@ -31,15 +31,15 @@ feature_row:
     excerpt: "Some of my favourite projects I worked on."
     url: "/projects/"
     btn_class: "btn--primary"
-    btn_label: "Look at awsome projects"
+    btn_label: "Look at awesome projects"
     
 ---
-I studied MulitMediaTechnology at the University of Applied Sciences, Salzburg, Austria with a focus on Game Development,
-which I will complete in April 2023 with a Masters degree. 
+I studied MultiMediaTechnology at the University of Applied Sciences, Salzburg, Austria with a focus on Game Development,
+which I will complete in April 2023 with a Master's degree. 
 In addition to coding games, I also have interests in other fields like computer graphics or deep learning and 
 am always looking to expand my knowledge and learn something new.
 
-Off the clock I enjoy the occasional game, prefferable (local) muliplayer-party games I can play
+Off the clock I enjoy the occasional game, preferable (local) multiplayer-party games I can play
 with my friends or horror games for an adrenaline kick.
 Furthermore, I love Yoga as well as reading, travelling or having a cup of coffee.
 

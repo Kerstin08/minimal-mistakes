@@ -13,7 +13,7 @@ For detailed information on data protection, please refer to the data protection
 
 ### Data protection rights
 This website is build in compliance to the European General Data Protection Regulation ("GDPR"), which gives people extensive rights with respect to how their personal data is collected and processed. These rights include:
-  * Right of access to the personal information we gather about you, and how we the share, store and process that information.
+  * Right of access to the personal information gathered about you, and how this information is shared, stored and processed.
   * Right to correction of your personal information.
   * Right to erasure of your personal data from servers.
   * Right to complain with a supervisory authority about handling of your data.
@@ -28,9 +28,9 @@ This website is build in compliance to the European General Data Protection Regu
 
 ### External hosting Netlify
 This website is hosted by the external service provider Netlify (hoster). The hoster processes your IP address and stores it in log files. The log files are stored for no longer than 30 days. The data processing is automated and is necessary for the provision and security of the web offer and its improvement. 
-This information can be found in <a href="https://www.netlify.com/privacy/">Netlify's privacy policy</a>, as well as Netlify's GDPR policy.
-The hoster is used for the purpose of fulfilling the contract with website users (Art. 6 para. 1 lit. b DSGVO) and in the interest of a secure, fast and efficient provision of our online offer by a professional provider (Art. 6 para. 1 lit. f DSGVO). 
-The hoster will only process your data to the extent necessary to fulfill its service obligations and follow our instructions regarding this data.
+This information can be found in <a href="https://www.netlify.com/privacy/">Netlify's privacy policy</a>, as well as <a href="https://www.netlify.com/gdpr-ccpa/">Netlify's GDPR policy</a>.
+The hoster is used for the purpose of fulfilling the contract with website users (Art. 6 para. 1 lit. b DSGVO) and in the interest of a secure, fast and efficient provision of the online offer by a professional provider (Art. 6 para. 1 lit. f DSGVO). 
+The hoster will only process your data to the extent necessary to fulfill its service obligations.
 <br />
 <br />
 
@@ -38,11 +38,11 @@ The hoster will only process your data to the extent necessary to fulfill its se
 ## 3. General notes and obligatory information
 
 ### Data collection on this website
-This website itself does not collect any personal data or use any analysis, third-party tools or cookies that collect any data.
+This website itself does not collect any personal data or use any analysis tool, third-party tools or cookies that collect any data.
 
 ### Data security
-This website takes many technical measures to provide a secure transmission and storage of any collected data and to guard it against manipulation or unauthorized access.
-Access to our website is provided via https if your browser supports SSL. If so, communication between your end device and our servers is encrypted.
+This website takes many technical measures to provide a secure transmission and to guard it against manipulation or unauthorized access.
+Access to my website is provided via https if your browser supports SSL. If so, communication between your end device and the used servers is encrypted.
 
 ### Data Controller
 While this website itself does not collect and process any personal data, you can still contact me regarding further questions:
@@ -58,10 +58,10 @@ kerstin_hofer90@gmx.at
 
 ### YouTube
 This website embeds videos from the website YouTube. The operator of the website is Google Ireland Limited ("Google"), Gordon House, Barrow Street, Dublin 4, Ireland.
-When you visit one of the websites on which YouTube is embedded, a connection to the YouTube servers is established. In doing so, the YouTube server is informed which of our pages you have visited.
+When you visit one of the websites on which YouTube is embedded, a connection to the YouTube servers is established. In doing so, the YouTube server is informed which of the pages you have visited.
 Furthermore, YouTube may store various cookies on your terminal device or use comparable technologies for recognition (e.g. device fingerprinting). In this way, YouTube can obtain information about visitors to this website. This information is used, among other things, to collect video statistics, improve the user experience, and prevent fraud attempts.
 If you are logged into your YouTube account, you allow YouTube to associate your browsing behavior directly with your personal profile. You can prevent this by logging out of your YouTube account.
-YouTube is used in the interest of an appealing presentation of our online offers. This represents a legitimate interest within the meaning of Art. 6 para. 1 lit. f DSGVO. Insofar as a corresponding consent has been requested, the processing is carried out exclusively on the basis of Art. 6 para. 1 lit. a DSGVO and § 25 para. 1 TTDSG, insofar as the consent includes the storage of cookies or access to information in the user's terminal device (e.g. device fingerprinting) within the meaning of the TTDSG. The consent can be revoked at any time.
+YouTube is used in the interest of an appealing presentation of my presented projects. This represents a legitimate interest within the meaning of Art. 6 para. 1 lit. f DSGVO. Insofar as a corresponding consent has been requested, the processing is carried out exclusively on the basis of Art. 6 para. 1 lit. a DSGVO and § 25 para. 1 TTDSG, insofar as the consent includes the storage of cookies or access to information in the user's terminal device (e.g. device fingerprinting) within the meaning of the TTDSG. The consent can be revoked at any time.
 Further information on the handling of user data can be found in <a href="https://policies.google.com/privacy?hl=en">YouTube's privacy policy</a>.
 <br />
 <br />

@@ -13,7 +13,7 @@ permalink: /resume/
 
 Game Developer equipped with knowledge about developing game projects in 
 both Unity and Unreal. Further experience in engine development including 
-physics and graphics programming as well as developing AR/VR applications and 
+physics and graphics programming as well as developing AR/VR applications, 
 deep learning for geometry processing and computer vision.
 <br />
 <br />
@@ -49,13 +49,13 @@ deep learning for geometry processing and computer vision.
 <br />
 <br />
 
-**2017 - 2021:     University of Applied Sciences Salzburg**
+**2017 - 2020:     University of Applied Sciences Salzburg**
 :   Degree: Bachelor of Science
 :   Specialisation: Game Development
 <br />
 <br />
 
-**2021 - present:  University of Applied Sciences Salzburg**
+**2020 - present:  University of Applied Sciences Salzburg**
 :   Degree: Master of Science
 :   Specialisation: Game Development
 :   estimated completion date: April 2023

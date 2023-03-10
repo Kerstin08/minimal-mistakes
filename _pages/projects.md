@@ -11,16 +11,16 @@ Some of my favourite projects I worked on. More games can be found on <a href="h
 
 ---
 ## Cyberbowl
-![image-right](/assets/images/cyberbowl_teaser_small.png){: .align-right}  Cyberbowl is a local muliplayer game, where the players compete in teams to win a football game. 
-Every character has special abilities has special abilities that either help to score a goal or to prevent the other team from scoring.
+![image-right](/assets/images/cyberbowl_teaser_small.png){: .align-right}  Cyberbowl is a local multiplayer game, where the players compete in teams to win a football game. 
+Every character has special abilities that either help to score a goal or to prevent the other team from scoring.
 
 <a href="https://portfolio.fh-salzburg.ac.at/projects/2019-cyber-bowl" class="btn btn--primary">Visit Portfolio</a>
 <a href="https://drive.google.com/file/d/1oCilLFZRF_c3yZHpsA5wOuZXMKnqBmJ0/view" class="btn btn--primary">Download to Play</a>
 
 ### My role
-This project was the graduation project for my Bachelor studies at the Universities of Applied Sciences Salzburg. It was developed in 
+This project was the graduation project for my Bachelor studies at the University of Applied Sciences Salzburg. It was developed in 
 Unreal 4 by a total of 3 programmers and 5 artists. In this team my primary role was Gameplay development, where I took on tasks as needed and
-therefore was involved in everything from character movement, over gameplay, like time and score management, to UI implementations.
+therefore was involved in everything from character movement, over gameplay management, like keeping track of time and score, to UI implementations.
 
 ### Trailer
 {% include video id="S598GzSND1o" provider="youtube" %}
@@ -38,7 +38,7 @@ the house, who is not too happy that a bunch of raccoons is trying to steal his 
 <a href="https://store.steampowered.com/app/1969130/Trash_Patrol__Academic_Version/" class="btn btn--primary">Play on Steam</a>
 
 ### My role
-This project was the graduation project for my Master studies at the Universities of Applied Sciences Salzburg. It was developed in 
+This project was the graduation project for my Master studies at the University of Applied Sciences Salzburg. It was developed in 
 Unreal 4 by a total of 2 programmers and 5 artists. In this team my primary role was AI development, which involved implementing the human occupant of the
 house. I was also responsible to incoperate the sound provided by our sound designer. Furthermore, I helped out as needed with several coding tasks as well as developed various parts
 of the prototype to test several mechanics before the actual development process started. Since the important game design alterations where decided by the whole team, 
