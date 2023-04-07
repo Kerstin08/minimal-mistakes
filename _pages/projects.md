@@ -19,7 +19,7 @@ Every character has special abilities that either help to score a goal or to pre
 
 ### My role
 This project was the graduation project for my Bachelor studies at the University of Applied Sciences Salzburg. It was developed in 
-Unreal 4 by a total of 3 programmers and 5 artists. In this team my primary role was Gameplay development, where I took on tasks as needed and
+Unreal 4 by a total of 3 programmers and 7 artists. In this team my primary role was Gameplay development, where I took on tasks as needed and
 therefore was involved in everything from character movement, over gameplay management, like keeping track of time and score, to UI implementations.
 
 ### Trailer
