@@ -34,7 +34,7 @@ In order to do so, the items have to be washed and cleaned before they can be ha
 the house, who is not too happy that a bunch of raccoons is trying to steal his possessions.
 
 <a href="https://portfolio.fh-salzburg.ac.at/projects/2022-trash-patrol" class="btn btn--primary">Visit Portfolio</a>
-<a href="https://portfolio.fh-salzburg.ac.at/projects/2019-cyber-bowl" class="btn btn--primary">View Code on Github</a>
+<a href="https://github.com/thetrashcangang/trash-patrol" class="btn btn--primary">View Project on Github</a>
 <a href="https://store.steampowered.com/app/1969130/Trash_Patrol__Academic_Version/" class="btn btn--primary">Play on Steam</a>
 
 ### My role
@@ -50,5 +50,13 @@ I also took part in the design process, which however was not my main resposibil
 
 ---
 
-## TBA
-Stay tuned for my next amazing project!
+## Sketch to 3d-Model
+![image-right](/assets/images/masterthesis_teaser.png){: .align-right} Sketch to 3d-Model is a project with the goal of transforming a 2d input sketch to a 3d model. This is done using Deep Learning as well as Differentiable Rendering,
+which are the basic building block of the resulting pipeline. The outputs of the pipeline are evluated in a comparison with a state-of-the-art model as well as an ablation study. These results are briefly summarized and presented alongside the code in the project's github repository.
+
+<a href="https://github.com/Kerstin08/Sketch-to-3d-Model" class="btn btn--primary">View Project on Github</a> 
+
+### My role
+This pipeline was the research project for my Master's Thesis, which I implemented in the last 6 months of my Master's studies.
+In addition to coding, also used a custom-made dataset using data from existing datasets. The creation for the used datasets is also described in the Github repository.
+Since this was also my first time working with Deep Learning and Differentiable Rendering, this learning process required extra effort and time, however, I learned a lot of new skills along the way.
