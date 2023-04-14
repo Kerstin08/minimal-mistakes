@@ -58,5 +58,5 @@ which are the basic building block of the resulting pipeline. The outputs of the
 
 ### My role
 This pipeline was the research project for my Master's Thesis, which I implemented in the last 6 months of my Master's studies.
-In addition to coding, also used a custom-made dataset using data from existing datasets. The creation for the used datasets is also described in the Github repository.
+In addition to research, coding and evaluation, I also created and used a custom-made dataset using data from existing datasets. The creation for the used datasets is also described in the Github repository.
 Since this was also my first time working with Deep Learning and Differentiable Rendering, this learning process required extra effort and time, however, I learned a lot of new skills along the way.
