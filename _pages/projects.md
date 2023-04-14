@@ -52,7 +52,7 @@ I also took part in the design process, which however was not my main resposibil
 
 ## Sketch to 3d-Model
 ![image-right](/assets/images/masterthesis_teaser.png){: .align-right} Sketch to 3d-Model is a project with the goal of transforming a 2d input sketch to a 3d model. This is done using Deep Learning as well as Differentiable Rendering,
-which are the basic building block of the resulting pipeline. The outputs of the pipeline are evluated in a comparison with a state-of-the-art model as well as an ablation study. These results are briefly summarized and presented alongside the code in the project's github repository.
+which are the basic building block of the resulting pipeline. The outputs of the pipeline are evaluated in a comparison with a state-of-the-art model as well as an ablation study. These results are briefly summarized and presented alongside the code in the project's Github repository.
 
 <a href="https://github.com/Kerstin08/Sketch-to-3d-Model" class="btn btn--primary">View Project on Github</a> 
 
