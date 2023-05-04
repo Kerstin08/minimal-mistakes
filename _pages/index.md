@@ -35,7 +35,7 @@ feature_row:
     
 ---
 I studied MultiMediaTechnology at the University of Applied Sciences, Salzburg, Austria with a focus on Game Development,
-which I will complete in April 2023 with a Master's degree. 
+which I completed in the beginning of May with a Master's degree. 
 In addition to coding games, I also have interests in other fields like computer graphics or deep learning and 
 am always looking to expand my knowledge and learn something new.
 

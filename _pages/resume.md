@@ -55,10 +55,9 @@ deep learning for geometry processing and computer vision.
 <br />
 <br />
 
-**2020 - present:  University of Applied Sciences Salzburg**
+**2020 - 2023:  University of Applied Sciences Salzburg**
 :   Degree: Master of Science
 :   Specialisation: Game Development
-:   estimated completion date: April 2023
 <br />
 <br />
 
