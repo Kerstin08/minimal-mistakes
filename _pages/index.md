@@ -39,7 +39,7 @@ which I completed in the beginning of May with a Master's degree.
 In addition to coding games, I also have interests in other fields like computer graphics or deep learning and 
 am always looking to expand my knowledge and learn something new.
 
-Off the clock I enjoy the occasional game, preferable (local) multiplayer-party games I can play
+Off the clock I enjoy the occasional game, preferably (local) multiplayer-party games I can play
 with my friends or horror games for an adrenaline kick.
 Furthermore, I love Yoga as well as reading, travelling or having a cup of coffee.
 

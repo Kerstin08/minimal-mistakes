@@ -11,7 +11,8 @@ permalink: /resume/
 ---
 ## Profile
 
-Game Developer equipped with knowledge about developing game projects in 
+Game Developer and Computer Vision Enthusiast 
+equipped with knowledge about developing game projects in 
 both Unity and Unreal. Further experience in engine development including 
 physics and graphics programming as well as developing AR/VR applications, 
 deep learning for geometry processing and computer vision.
